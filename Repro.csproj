@@ -4,7 +4,6 @@
     <TargetFrameworks>netcoreapp3.1;net472</TargetFrameworks>
     <AssemblyName>Repro</AssemblyName>
     <OutputType>Exe</OutputType>
-    <Nullable>enable</Nullable>
     <LangVersion>8.0</LangVersion>
     <Platforms>AnyCPU;x64;x86</Platforms>
   </PropertyGroup>
